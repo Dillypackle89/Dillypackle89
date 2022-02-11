@@ -1,0 +1,8 @@
+
+player.say("Placing Stone");
+// Stone Line 
+block.place(Bedrock, pos (0,0,1)) 
+block.place(Bedrock, pos (0,0,2)) 
+block.place(Bedrock, pos (0,0,3)) 
+block.place(Bedrock, pos (0,0,4)) 
+block.place(Bedrock, pos (0,0,5))  
