@@ -1,1 +1,1 @@
-blocks.print("Zyana likes Cheese", GRASS, pos (0, 0, 0), WEST)
+blocks.print("Joel likes Elsa", DIAMOND, pos (0, 0, 0), WEST)
